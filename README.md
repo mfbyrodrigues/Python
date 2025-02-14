@@ -4,10 +4,10 @@ Este repositório contém os materiais e exercícios do curso de Python que esto
 
 ## Índice
 
-- [Sobre o Curso](#sobre-o-curso)
-- [Configuração do Ambiente](#configuracao-do-ambiente)
-- [Conteúdo do Curso](#conteudo-do-curso)
-- [Minhas Anotações](#minhas-anotacoes)
+- [Sobre o curso](#sobre-o-curso)
+- [Configuração do ambiente](#configuracao-do-ambiente)
+- [Conteúdo do curso](#conteudo-do-curso)
+- [Minhas anotações](#minhas-anotacoes)
 - [Referências](#referencias)
 
 ## Sobre o curso
