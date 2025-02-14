@@ -17,9 +17,9 @@ Este curso aborda desde os conceitos básicos até técnicas avançadas da lingu
 ## Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
-- **Interpretador:** Python 3+
-- **Editor:** VS Code com a extensão Python
-- **Ferramentas adicionais:** Jupyter Notebook (opcional), pip para gerenciamento de pacotes
+- **Interpretador:** Python 3+;
+- **Editor:** VS Code com a extensão Python;
+- **Ferramentas adicionais:** Jupyter Notebook (opcional), pip para gerenciamento de pacotes.
 
 ## Conteúdo do curso
 
@@ -59,8 +59,11 @@ Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
 
 ## Referências
 
-- Documentação oficial do Python
-- Livros e materiais recomendados durante o curso
-- Fóruns e comunidades de programação
+- Documentação oficial do Python;
+- Livros e materiais recomendados durante o curso;
+- Fóruns e comunidades de programação.
+
+##
 
 Esse repositório servirá como meu espaço de aprendizado e registro do curso.
+
