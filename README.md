@@ -1,4 +1,4 @@
-# CURSO DE PYTHON
+# Curso de Python
 
 Este repositório contém os materiais e exercícios do curso de Python que estou estudando. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado.
 
