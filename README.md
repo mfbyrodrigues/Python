@@ -55,7 +55,7 @@ Os principais tópicos abordados incluem:
 
 ## Minhas anotações
 
-Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
+Aqui adicionarei anotações e códigos feitos do curso.
 
 ## Referências
 
