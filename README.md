@@ -1,4 +1,4 @@
-# Curso de Python
+# CURSO DE PYTHON
 
 Este repositório contém os materiais e exercícios do curso de Python que estou estudando. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado.
 
@@ -10,18 +10,18 @@ Este repositório contém os materiais e exercícios do curso de Python que esto
 - [Minhas Anotações](#minhas-anotacoes)
 - [Referências](#referencias)
 
-## Sobre o Curso
+## Sobre o curso
 
 Este curso aborda desde os conceitos básicos até técnicas avançadas da linguagem Python. O objetivo é aprender a sintaxe, estrutura e boas práticas para desenvolvimento em Python.
 
-## Configuração do Ambiente
+## Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
 - **Interpretador:** Python 3+
 - **Editor:** VS Code com a extensão Python
 - **Ferramentas adicionais:** Jupyter Notebook (opcional), pip para gerenciamento de pacotes
 
-## Conteúdo do Curso
+## Conteúdo do curso
 
 Os principais tópicos abordados incluem:
 
@@ -53,7 +53,7 @@ Os principais tópicos abordados incluem:
    - Desenvolvimento de um pequeno projeto
    - Organização do código e boas práticas
 
-## Minhas Anotações
+## Minhas anotações
 
 Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
 
