@@ -64,5 +64,3 @@ Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
 - Fóruns e comunidades de programação
 
 Esse repositório servirá como meu espaço de aprendizado e consulta ao longo do curso.
-```
-
